@@ -1,0 +1,6 @@
+certifi
+chardet
+idna
+lxml
+requests
+urllib3
